@@ -41,3 +41,25 @@ nav ul li a {
 }
 
 nav ul li a:hover { color: #ffcc00; }
+
+body.index-page {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 2rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+body.page2 {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #e6f2ff;
+}
+
+body.page3 {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #fff0f5;
+}
