@@ -63,3 +63,36 @@ body.page2 {
 body.page3 {
   background-color: #fff0f5;
 }
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  }
+
+h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  
+}
+
+p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  color: #222;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
