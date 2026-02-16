@@ -42,24 +42,24 @@ nav ul li a {
 
 nav ul li a:hover { color: #ffcc00; }
 
-body.index-page {
+body.index-page,
+body.page2,
+body.page3 {
   max-width: 900px;
   margin: 0 auto;
-  background-color: #fff;
   padding: 2rem;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
 }
 
-body.page2 {
-  max-width: 95%;
-  margin: 0 auto;
-  padding: 2rem;
+body.index-page {
   background-color: #e6f2ff;
 }
 
+body.page2 {
+  background-color: #f3e8ff;
+}
+
 body.page3 {
-  max-width: 95%;
-  margin: 0 auto;
-  padding: 2rem;
   background-color: #fff0f5;
 }
