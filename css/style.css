@@ -96,3 +96,31 @@ ul li {
   margin-bottom: 0.5rem;
   line-height: 1.5;
 }
+
+ul li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+  color: #004080;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #ffcc00;
+}
+
+img, video {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  border-radius: 8px;
+}
+.contact-info {
+  text-align: center;
+  margin-top: 0.25rem;
+  font-size: 1rem;
+  color: #333;
+}
